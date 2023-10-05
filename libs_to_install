@@ -1,0 +1,9 @@
+'''
+This code uses:
+
+Pandas (pip install pandas)
+UMAP (pip install umap-learn)
+BERTopic (pip install bertopic)
+SentenceTransformer (pip install sentence-transformers)
+
+'''
